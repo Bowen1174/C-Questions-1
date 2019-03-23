@@ -1,4 +1,4 @@
-# C-Questions-1
+# C# Questions 1
 1. What is a namespace? Name-space is used in C# to organize all of its classes.
 2. What are value types? Value types hold some kind of data in C# and can stores different kind of data.
 3. What are reference types? Reference types work a little like value types, but are used with string and classes and not so much data.
